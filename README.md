@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Junayed 👋 A Passionate Web Developer From Bangladesh 🚀 Launch Next App Efficiently⚡ With Me">
+</p>
+
 ## Hi there 👋
 
 [![](https://visitcount.itsvg.in/api?id=junayeeed&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
