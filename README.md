@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=junayeeed&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **Junayeeed/Junayeeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
