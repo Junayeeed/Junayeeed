@@ -4,7 +4,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=junayeeed&theme=dark&hide_) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&redirect=true) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&redirect=true) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=junayeeed&theme=dark&hide_) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&redirect=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=shaiadul&theme=dark&hide_) |
 | ------------- | ------------- | ------------- |
 
 <p align=center>
