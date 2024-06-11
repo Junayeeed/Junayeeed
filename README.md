@@ -4,7 +4,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=junayeeed&theme=dark&hide_) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&redirect=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=shaiadul&theme=dark&hide_) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=junayeeed&theme=dark&hide_) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&redirect=true) | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayeeed&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" /></a> |
 | ------------- | ------------- | ------------- |
 
 <p align=center>
