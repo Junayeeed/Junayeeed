@@ -2,10 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=junayeeed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=junayeeed&theme=dark&hide_)
-
-| ![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=junayeeed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&redirect=true) |
-| ------------- | ------------- |
+| ![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=junayeeed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&redirect=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=junayeeed&theme=dark&hide_) |
+| ------------- | ------------- | ------------- |
 
 [![](https://visitcount.itsvg.in/api?id=junayeeed&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
