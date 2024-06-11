@@ -4,7 +4,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=junayeeed&theme=dark&hide_) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&redirect=true) | <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=junayeeed&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a> |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=junayeeed&theme=dark&hide_) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckiowjguw9o4qv97hwzetqse7&redirect=true) | <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=junayeeed&show_icons=true&theme=react&border_color=61dafb&hide_border=true" /></a> |
 | ------------- | ------------- | ------------- |
 
 <p align=center>
