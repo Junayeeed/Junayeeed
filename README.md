@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there 👋</h2>
+<h1 align="center">Hi there 👋 I'm Junayed</h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
