@@ -9,9 +9,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=junayeeed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<p align=center>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=junayeeed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=junayeeed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://visitcount.itsvg.in/api?id=junayeeed&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
