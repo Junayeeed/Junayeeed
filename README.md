@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Junayed 👋 A Passionate Web Developer From Bangladesh 🚀 Launch Next App Efficiently⚡ With Me">
-</p>
-
 ## Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=junayeeed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=junayeeed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=junayeeed&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
