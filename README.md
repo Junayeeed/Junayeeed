@@ -10,10 +10,10 @@
 <br />
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:junayedxs@gmail.com">
     <img src="https://img.shields.io/badge/Connect_via_Email-ffffff?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile-here">
+  <a href="https://www.linkedin.com/in/muhammadjunayed/">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="LinkedIn" />
   </a>
 </div>
