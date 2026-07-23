@@ -1,55 +1,76 @@
-<h1 align="center">Muhammad Junayed</h1>
-<h3 align="center">Full-Stack Engineer & Minimalist UI Designer</h3>
+<div align="center">
+  
+  <h1>Muhammad Junayed</h1>
+  <h3>Full-Stack Engineer & Minimalist UI Designer</h3>
 
-<p align="center">
-  <b>8+ Years of Crafting High-Performance Systems | Dhaka, Bangladesh</b><br>
-  Bridging complex backend architectures with pristine, high-key single-page application interfaces.
-</p>
+  > **Architecting high-performance software systems with over 8 years of industry experience. Based in Dhaka, Bangladesh.**
 
----
+</div>
 
-### 🧱 System Architecture & Tech Stack
+<br />
 
-| Layer | Core Technologies |
-| :--- | :--- |
-| **Frontend Frameworks** | <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=black" /> <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=61dafb" /> <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=3178c6" /> |
-| **Backend & Logic** | <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=nodedotjs&logoColor=339933" /> <img src="https://img.shields.io/badge/Django-ffffff?style=flat-square&logo=django&logoColor=092e20" /> |
-| **Database & CMS** | <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=4169e1" /> <img src="https://img.shields.io/badge/WordPress-ffffff?style=flat-square&logo=wordpress&logoColor=21759b" /> |
-| **UI & Animation** | <img src="https://img.shields.io/badge/Tailwind_CSS-ffffff?style=flat-square&logo=tailwindcss&logoColor=38b2ac" /> <img src="https://img.shields.io/badge/GSAP-ffffff?style=flat-square&logo=greensock&logoColor=88CE02" /> |
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Connect_via_Email-ffffff?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile-here">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="LinkedIn" />
+  </a>
+</div>
 
----
-
-### 🏗️ Flagship Platforms & Engineering
-*Detailed scope of active system developments and commercial deployments.*
-
-| Project | Domain | Technical Implementation & Features |
-| :--- | :--- | :--- |
-| **[ShikkhaBridge]** | Ed-Tech System | Engineered robust backend architecture, regional institutional routing, and automated student attendance alert mechanics. |
-| **[FlyLedger]** | Financial Ecosystem | Built multi-tiered subscription structures and advanced automated business workflows for digital ledger management. |
-| **[NexaLead]** | Lead Gen CRM | Developed complex Excel-style datagrids, resolved routing architecture, and optimized secure client login portal workflows. |
-| **[DropStream]** | P2P File Sharing | Integrated WebRTC mechanics into a distraction-free, single-screen responsive interface with interactive background animations. |
-| **[Youth Avenue]** | E-commerce | Structuring print-on-demand backend deployment, strategic blueprinting, and automated integrations. |
+<br />
 
 ---
 
-### 🧠 AI Infrastructure & R&D
+<div align="center">
+  <h2>💻 Core Engineering Stack</h2>
+  <p>Building robust frontends and scalable backends utilizing industry-leading technologies.</p>
+  
+  <br />
 
-*   **Offline LLM Deployment:** Successfully hosted local AI models entirely offline on mobile hardware environments via Termux.
-*   **Automated Execution:** Configured custom execution environments utilizing OpenClaw and Dokploy templates.
-*   **API Integrations:** Developed dynamic tools leveraging Google Gemini APIs.
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=light&perline=4" alt="Frontend Stack" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,postgres,wordpress&theme=light&perline=4" alt="Backend Stack" />
+</div>
+
+<br />
 
 ---
 
-### 📐 Design Philosophy & Visual Direction
+### 🚀 Flagship Platforms & Infrastructure
 
-*   **Architectural Minimalism:** Strict adherence to high-key white layouts, utilizing pure white space and sharp 1px delineations over heavy dark themes.
-*   **Fluid Interactions:** Transitioning complex multi-page layouts into seamless single-page application (SPA) tab structures featuring glassmorphism and smooth GSAP animations.
-*   **Creative Asset Direction:** Directing precise visual components, typography, and specific layout dimensions for commercial brands (e.g., Achar Auntie SG, Meataholic).
+*   **[ShikkhaBridge]** — Architecting a comprehensive education management system platform. Engineered automated student attendance alerts and regional institutional routing for maximum scalability.
+*   **[FlyLedger]** — Developed a multi-tiered digital ledger and financial ecosystem, implementing advanced automated business workflows without relying on native wallet structures.
+*   **[NexaLead]** — Building secure, high-performance data management infrastructures, featuring extensive Excel-style CRM datagrids and optimized client login portals.
+*   **[DropStream]** — Engineered a distraction-free, peer-to-peer file-sharing single-page application leveraging native WebRTC mechanics.
+*   **[Youth Avenue]** — Structuring backend deployments and strategic automated integrations for a print-on-demand e-commerce architecture.
+
+<br />
 
 ---
 
-<p align="center">
-  <b>Let's collaborate on building scalable, distraction-free software.</b><br><br>
-  <a href="mailto:junayedxs@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-ffffff?style=flat-square&logo=gmail&logoColor=d14836" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/muhammadjunayed/"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=0077b5" alt="LinkedIn" /></a>
-</p>
+### 🧠 Advanced Integrations & R&D
+
+> **Exploring the boundaries of local AI environments and custom automated deployments.**
+
+*   **Offline LLM Architecture:** Deployed and actively hosting open-source artificial intelligence models strictly offline utilizing mobile hardware environments via Termux.
+*   **Execution Environments:** Configuring customized, automated execution environments utilizing OpenClaw and Dokploy templates.
+*   **API Engineering:** Seamless integration of Google Gemini APIs to drive intelligent, backend-driven platform features.
+
+<br />
+
+---
+
+### 📐 Design Philosophy
+
+*   **Architectural Minimalism:** Strict adherence to high-key white layouts, pure negative space, and sharp 1px delineations over heavy dark themes.
+*   **Fluid UX Interfaces:** Transitioning complex data flows into seamless single-page applications (SPA). Designing interactions characterized by glassmorphism components and fluid GSAP-driven slider animations.
+*   **Creative Asset Direction:** Formulating precise visual components, flat illustrated layouts, and macro-texturing directives for commercial brand campaigns.
+
+<br />
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&text=Crafted%20with%20Precision&fontColor=000000&fontSize=20&height=100&stroke=000000&strokeWidth=1" alt="Footer Line" />
+</div>
