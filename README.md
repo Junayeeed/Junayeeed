@@ -32,30 +32,32 @@
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img src="https://github-readme-stats.vercel.app/api?username=junayeeed&show_icons=true&theme=default&border_color=e4e2e2&bg_color=ffffff&hide_border=false" width="49%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=junayeeed&show_icons=true&theme=default&hide_border=false" width="49%" alt="GitHub Stats" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junayeeed&theme=default&background=ffffff&border=e4e2e2" width="49%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=junayeeed&theme=default" width="49%" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junayeeed&theme=github&bg_color=ffffff&hide_border=false&color=000000" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junayeeed&theme=github&hide_border=false" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=junayeeed&theme=flat&bg_color=ffffff" />
+    <img src="https://github-profile-trophy.vercel.app/?username=junayeeed&theme=onelight" alt="GitHub Trophy" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ckiowjguw9o4qv97hwzetqse7&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ckiowjguw9o4qv97hwzetqse7&cover_image=true&theme=default&show_offline=false&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=junayeeed&label=Profile%20Views&color=000000&icon=6&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=junayeeed&label=Profile%20Views&color=12&icon=6&pretty=true" alt="Profile Views" />
   </a>
 </p>
